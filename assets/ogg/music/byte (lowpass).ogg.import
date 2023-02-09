@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/byte (lowpass).ogg-0ce50f1d2af3667f393700507b4056d4.oggstr"
+
+[deps]
+
+source_file="res://assets/ogg/music/byte (lowpass).ogg"
+dest_files=[ "res://.import/byte (lowpass).ogg-0ce50f1d2af3667f393700507b4056d4.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

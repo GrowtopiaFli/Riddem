@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/headache.ogg-a66e7cd0da06253050ba168083235457.oggstr"
+
+[deps]
+
+source_file="res://assets/ogg/music/headache.ogg"
+dest_files=[ "res://.import/headache.ogg-a66e7cd0da06253050ba168083235457.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
